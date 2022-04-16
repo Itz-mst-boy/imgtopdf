@@ -65,8 +65,7 @@ async def done(client,message):
  path = f"{message.from_user.id}" + ".pdf"
  images[0].save(path, save_all = True, append_images = images[1:])
  
- await client.send_document(message.from_user.id, open(path, "rb"), caption = "ʜᴇʀᴇ  ɪs ʏᴏᴜʀ ᴘᴅғ [InlineKeyboardButton("Support ❤" ,url="https://t.me/mukhushi_official") ],
-                 [Support [ @mukhushi_official !!")
+ await client.send_document(message.from_user.id, open(path, "rb"), caption = "ʜᴇʀᴇ  ɪs ʏᴏᴜʀ ᴘᴅғ Support  @mukhushi_official !!")
  os.remove(path)
  
  
