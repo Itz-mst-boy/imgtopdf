@@ -28,7 +28,7 @@ async def start(client, message):
 ᴛʜɪs  ʙᴏᴛ  ɪs  ᴄʀᴇᴀᴛᴇᴅ  ʙʏ  @iTz_mSt_bOy """,reply_to_message_id = message.message_id ,  reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("Support ❤" ,url="https://t.me/mukhushi_official") ],
+                    InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ ❤" ,url="https://t.me/mukhushi_official") ],
                  [InlineKeyboardButton("ᴘᴏᴡᴇʀᴇᴅ  ʙʏ  🤗", url="https://t.me/mastermind_network_official") ]       ]        ) )
 
 
