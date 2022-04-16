@@ -30,6 +30,7 @@ async def start(client, message):
                 [
                     InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ ❤" ,url="https://t.me/mukhushi_official") ],
                  [InlineKeyboardButton("ᴘᴏᴡᴇʀᴇᴅ  ʙʏ  🤗", url="https://t.me/mastermind_network_official") ]       ]        ) )
+                 [InlineKeyboardButton("ᴘᴏᴡᴇʀᴇᴅ  ʙʏ  🤗", url="https://t.me/mastermind_network_official") ]       ]        ) )
 
 
 
