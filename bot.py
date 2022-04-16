@@ -21,7 +21,7 @@ LIST = {}
 
 @app.on_message(filters.command(['start']))
 async def start(client, message):
- await message.reply_text(text =f"""ʜᴇʟʟᴏ  ᴅᴇᴀʀ  {message.from_user.first_name } ᴡʟᴄᴍ ᴛᴏ ɪᴍᴀɢᴇ ᴛᴏ  ᴘᴅғ ᴄᴏɴᴠᴇʀᴛᴏʀ ʙᴏᴛ ᴍᴀᴅᴇ ʙʏ @itz_mst_boy 
+ await message.reply_text(text =f""" <img src="https://telegra.ph/file/7fa9017265d3d6f51d191.jpg" width="2000"></a>ʜᴇʟʟᴏ  ᴅᴇᴀʀ  {message.from_user.first_name } ᴡʟᴄᴍ ᴛᴏ ɪᴍᴀɢᴇ ᴛᴏ  ᴘᴅғ ᴄᴏɴᴠᴇʀᴛᴏʀ ʙᴏᴛ ᴍᴀᴅᴇ ʙʏ @itz_mst_boy 
 
 ɪ ᴄᴀɴ ᴄᴏɴᴠᴇʀᴛ ɪᴍɢ ᴛᴏ ᴘᴅғ  sᴏ ᴅᴏɴᴛ ᴡᴀsᴛᴇ ᴜʀ ᴛɪᴍᴇ ᴅɪʀᴇᴄᴛʟʏ sᴇɴᴅ ᴍᴇ ɪᴍɢ ғʀᴏᴍ ᴀɴʏᴡʜᴇʀᴇ ʙᴇᴛᴛᴇʀ ᴛᴏ sʜᴀʀᴇ  ғʀᴏᴍ ᴜʀ  ɢᴀʟʟᴇʀʏ ɪ ᴡɪʟʟ ᴄᴏɴᴠᴇʀᴛ  ɪᴍᴀɢᴇ  ᴛᴏ ᴘᴅғ ᴡɪᴛʜɪɴ ғᴇᴡ sᴇᴄ ᴀᴛ ʟᴀsᴛ ᴛʏᴘᴇ  /convert.
 
