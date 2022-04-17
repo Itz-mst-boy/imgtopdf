@@ -46,6 +46,6 @@ SOFTWARE.
    <p> Telegram </p>
   </a>
 <a href="https://t.me/itz_mst_boy">
-   <p> Developed  by</p>
+   <p> Developer </p>
   </a>
 
