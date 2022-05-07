@@ -72,4 +72,5 @@ async def done(client,message):
  
  
  
-app.run()
+print ("sᴜᴄᴄᴇssғᴜʟʟʏ sᴛᴀʀᴛᴇᴅ ᴇɴᴊᴏʏ ʙʏ @itz_mst_boy ᴊᴏɪɴ @moi_bot_lists")
+RUn.run_until_disconnected()
